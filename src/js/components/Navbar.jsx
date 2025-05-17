@@ -4,17 +4,7 @@ import React from "react";
 
 const Navbar = () => {
 	return (
-		// <nav class="navbar bg-body-tertiary">
-        //     <div class="container-fluid">
-        //         <a class="navbar-brand">Navbar</a>
-                
-                
-        //         <form class="d-flex" role="search">
-        //             <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        //             <button className="btn btn-outline-danger" type="submit">Search</button>
-        //         </form>
-        //     </div>
-        // </nav>
+
 
         <nav className="navbar navbar-expand-lg bg-body-tertiary p-2 px-3">
             <div className="container-fluid">
