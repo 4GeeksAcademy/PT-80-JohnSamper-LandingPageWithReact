@@ -21,7 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Home/>
    <div className="container mt-4 p-3">
   <div className="row row-cols-1 row-cols-md-4 g-5 justify-content-center">
-    <div className="col d-flex justify-content-center"><Card style={{ width: "24rem" }} /></div>
+    <div className="col d-flex justify-content-center">git <Card style={{ width: "24rem" }} /></div>
     <div className="col d-flex justify-content-center"><Card style={{ width: "24rem" }} /></div>
     <div className="col d-flex justify-content-center"><Card style={{ width: "24rem" }} /></div>
     <div className="col d-flex justify-content-center"><Card style={{ width: "24rem" }} /></div>
